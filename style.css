@@ -1,0 +1,19 @@
+/*
+Theme Name: News Today
+Theme URL:https://github.com/mujammeln
+Author:Mannaf
+Author URL:https://github.com/mujammelhaquen
+Description: Our First HyperMinumal Theme
+Version:1.0
+License: GNU General Public License v2 or later
+License URL:http://www.gnu.org/licenses/gpl-2.0.html
+Tags:blog, education
+Text Domain:newstoday
+*/
+li{
+    list-style-type: none;
+}
+.header_bottom .add_banner .widget{
+    text-decoration: none !important;
+  
+}
